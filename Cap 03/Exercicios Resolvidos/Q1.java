@@ -1,5 +1,6 @@
-package br.edu.principal;
+//Q1.CAP-03: Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.\\
 
+package br.edu.principal;
 
 import java.util.Scanner;
 
