@@ -1,10 +1,10 @@
-//Q1.CAP-03: Faça um programa que receba três notas, calcule e mostre a média aritmética.\\
+//Q1.CAP-03: FaÃ§a um programa que receba trÃªs notas, calcule e mostre a mÃ©dia aritmÃ©tica.\\
 
 package br.edu.principal;
 
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
 
 	 
 	
