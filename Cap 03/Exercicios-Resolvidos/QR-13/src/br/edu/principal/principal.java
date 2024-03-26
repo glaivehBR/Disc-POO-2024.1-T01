@@ -19,7 +19,7 @@ public class principal {
 			System.out.println("Jardas equivale a "+jardas);
 			System.out.println("Milhas equivale a "+milhas);
 		}else {
-			System.out.println("o valor inserido nao � valido. Insira um vlor positivo;)");
+			System.out.println("o valor inserido nao é valido. Insira um vlor positivo;)");
 		}
 	}
 
