@@ -1,1 +1,1 @@
-E necessario JRE para abrir o .jar (Incluso no JDK)
+É necessário JRE para abrir o arquivo .jar Incluso no JDK(JAVA DEVELOPER KIT) 
