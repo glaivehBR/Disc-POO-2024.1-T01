@@ -1,4 +1,4 @@
-//Q1.CAP-03:Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.\\ 
+//Q3.CAP-03:FaÃ§a um programa que receba trÃªs notas e seus respectivos pesos, calcule e mostre a mÃ©dia ponderada.\\ 
 
 
 package br.edu.principal;
@@ -34,7 +34,7 @@ public class Principal {
    System.out.println("Digite o peso3:");
    peso3 = sc.nextInt();
    
-   System.out.println("A media é:"); 
+   System.out.println("A media Ã©:"); 
     media = (nota1*peso1+ nota2*peso2+ nota3*peso3)/(peso1+ peso2+ peso3); 
    System.out.println(media);
    
