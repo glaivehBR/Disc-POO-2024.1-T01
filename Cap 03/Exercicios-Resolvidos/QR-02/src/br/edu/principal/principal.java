@@ -1,4 +1,4 @@
-//Q1.CAP-03: Faça um programa que receba três notas, calcule e mostre a média aritmética.\\
+//Q2.CAP-03: Faça um programa que receba três notas, calcule e mostre a média aritmética.\\
 
 package br.edu.principal;
 
