@@ -1,5 +1,5 @@
-/*Q4.Cap-03:FaÁa um programa que receba o sal·rio de um funcion·rio e o percentual de aumento, calcule e mostre
-o valor do aumento e o novo sal·rio.*/
+/*Q5.Cap-03:Fa√ßa um programa que receba o sal√°rio de um funcion√°rio e o percentual de aumento, calcule e mostre
+o valor do aumento e o novo sal√°rio.*/
 
 package br.edu.principal;
 
@@ -25,7 +25,7 @@ public class Principal {
 	aumento = salario * perc/100; 
 	System.out.println(aumento);
 	
-	System.out.println("O novo salario È de");
+	System.out.println("O novo salario √© de");
 	newsalario = salario + aumento; 
 	System.out.println(newsalario);
 	
