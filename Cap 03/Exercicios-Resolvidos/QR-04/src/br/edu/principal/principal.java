@@ -1,4 +1,4 @@
-/*Q1.CAP-04:FaÁa um programa que receba o sal·rio de um funcion·rio, calcule e mostre o novo sal·rio, sabendo-se
+/*Q4.CAP-04:Fa√ßa um programa que receba o sal√°rio de um funcion√°rio, calcule e mostre o novo sal√°rio, sabendo-se
 que este sofreu um aumento de 25%.*/
 
 
@@ -22,7 +22,7 @@ public class principal {
 	aumento = salario * 25/100; 
 	
 	
-	System.out.println("O novo salario È de");
+	System.out.println("O novo salario √© de");
 	newsalario = salario + aumento;
 	System.out.println(newsalario);
    
