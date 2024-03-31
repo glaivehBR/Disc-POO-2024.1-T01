@@ -2,7 +2,7 @@ package br.edu.principal;
 
 import java.util.Scanner;
 
-public class Principal {
+public class principal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double hora = scanner.nextDouble();
